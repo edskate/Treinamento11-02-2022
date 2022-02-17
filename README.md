@@ -2,4 +2,12 @@
 
  javascript
 
- - ola mundo
+- Estudando javascript
+
+- Criando formas de estudar nosso comteudo.
+
+- A muitas possibilidades de estudar.
+
+- Só temos que ter tempo é foco.
+
+- Não desistir.
